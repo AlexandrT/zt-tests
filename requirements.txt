@@ -1,2 +1,6 @@
-pytest
+pytest~=7.4.3
 pytest-selenium
+selenium~=4.15.2
+
+python-i18n[YAML]
+requests
